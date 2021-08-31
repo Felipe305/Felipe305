@@ -2,7 +2,10 @@
 
 <div align="center">
    
-  <p>Sou estudante de análise e desenvolvimento de sistemas, gosto muito da profissão e estou em busca de aprendizados. Atualmente acabei meu primeiro semestre da faculdade onde adquiri um enorme aprendizado sobre o mundo da programação, e durante essa trajetória aproveitei o meu tempo das férias para aprender desenvolvimento web, onde estou estudando e procurando desenvolver meu aprendizado para evoluir profissionalmente.
+  <p> :books: Atualmente estou estudando estudando (HTML,CSS, e JAVASCRIPT)
+  <p>:mortar_board:  Estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas - UniMetrocamp;
+     <p>:mag_right: No momento estou em busca de novas oportunidades de aprendizado;
+     <p>:game_die: No meu tempo livre gosto muito de interagir com esse mundo gigante da programação e assistir campeonatos de futebol;
 
 </div>
 
@@ -18,10 +21,12 @@
 
 <div align="center">
   
+  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
   ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  ![NodeJS Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+  
   
   <details>
   <summary>Github Stats</summary>
