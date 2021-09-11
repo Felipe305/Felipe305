@@ -2,7 +2,7 @@
 
 <div align="center">
    
-  <p> :books: Atualmente estou  estudando (HTML,CSS, e JAVASCRIPT)
+  <p>:books: Atualmente estou  estudando (HTML,CSS, e JAVASCRIPT)
   <p>:mortar_board:  Estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas - UniMetrocamp;
   <p>:mag_right: No momento estou em busca de novas oportunidades de aprendizado;
   <p>:game_die: No meu tempo livre gosto muito de interagir com esse mundo gigante da programação e assistir campeonatos de futebol;
