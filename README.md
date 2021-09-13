@@ -42,7 +42,6 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.profissionalti@gmail.com)
   [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-575531203/)
   
-     ![Snake animation](https://github.com/Felipe305/github-contribution-grid-snake.svg)
- 
+ ![Snake animation](https://github.com/Felipe305/Felipe305/blob/output/github-contribution-grid-snake.svg)
   
 </div>
