@@ -1,32 +1,31 @@
-<h1 align="center">Olá, me chamo Felipe Silva <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-<div align="center">
-   
-  <p>:books: Atualmente estou  estudando (HTML,CSS, e JAVASCRIPT)
-  <p>:mortar_board:  Estou no segundo semestre da faculdade de Análise e Desenvolvimento de Sistemas - UniMetrocamp;
-  <p>:mag_right: No momento estou em busca de novas oportunidades de aprendizado;
-  <p>:game_die: No meu tempo livre gosto muito de interagir com esse mundo gigante da programação e assistir campeonatos de futebol;
+<p align="left"> 
+  Hi guys! Me chamo Felipe Silva e sou estudante de análise e desenvolvimento de sistemas. 
+</p>
 
-</div>
+<p align="left">
+  🦄 <strong>Atualmente estou começando estudar (HTML,CSS,JavaScript e suas bibliotecas/frameworks). Também já tive bastante contato com python.</strong>
+</p>
 
-<br>
+<p align="left">
+  💼  <strong>Estou em busca do meu primeiro emprego no ramo da programação.</strong>
+</p>
 
-<div align="center">
+<p align="left">
+  💌 Sucesso é a soma de pequenos esforços repetidos dias após dias:⤵️
+</p>
 
-  <img height="200em" width="480em" src="https://apexensino.com.br/wp-content/uploads/2017/03/linguagens-de-programa%C3%A7%C3%A3o.jpg"/>
+<p align="left">
+  <a href="#" alt="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-</div>
+  <a href="#" alt="Linkedin">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/felipe-silva-575531203/" /></a>
 
-<br>
+  <a href="#" alt="WhatsApp">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP"/></a>
 
-<div align="center">
-  
-  ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS Badge](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-  
   
   <details>
   <summary>Github Stats</summary>
@@ -37,10 +36,7 @@
 <div>
 </details>
   
-  ## Contatos
-  
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.profissionalti@gmail.com)
-  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-silva-575531203/)
+     
   
  ![Snake animation](https://github.com/Felipe305/Felipe305/blob/output/github-contribution-grid-snake.svg)
   
