@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  💼  <strong>Estou em busca do meu primeiro emprego no ramo da programação.</strong>
+  💼  <strong> Consegui meu primeiro emprego na área.</strong>
 </p>
 
 <p align="left">
