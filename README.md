@@ -1,19 +1,19 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Hi guys! Me chamo Felipe Silva e sou estudante de análise e desenvolvimento de sistemas. 
+  Olá! Meu nome é Felipe Silva e sou estudante de Análise e Desenvolvimento de Sistemas. 
 </p>
 
 <p align="left">
-  🦄 <strong>Atualmente estou começando estudar (HTML,CSS,JavaScript e suas bibliotecas/frameworks). Também já tive bastante contato com python.</strong>
+  🦄 <strong>Atualmente, estou focado em aprimorar meus conhecimentos em AngularJS, Node e TypeScript.</strong>
 </p>
 
 <p align="left">
-  💼  <strong> Consegui meu primeiro emprego na área.</strong>
+  💼  <strong> Estou muito animado em compartilhar que conquistei meu primeiro emprego na área.</strong>
 </p>
 
 <p align="left">
-  💌 Sucesso é a soma de pequenos esforços repetidos dias após dias:⤵️
+  💌 Acredito firmemente que o sucesso é alcançado quando nos dedicamos diariamente, persistindo nos pequenos esforços ao longo do tempo. Estou determinado a crescer como desenvolvedor e continuo em busca de novas oportunidades de aprendizado e crescimento:⤵️
 </p>
 
 <p align="left">
